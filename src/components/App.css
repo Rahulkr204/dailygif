@@ -1,0 +1,18 @@
+.main-app{
+  display: flex;
+  flex-direction: column;
+}
+.main-header{
+  text-align: center;
+}
+.listContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 8px 24px;
+}
+.imageDiv{
+  width: 320px;
+  height: 320px;
+  justify-content: space-around;
+}
